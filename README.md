@@ -31,7 +31,7 @@ Each course folder is split into `finished` (at least one part runs all the way 
 
 **Not finished:** Naive Bayes notes, ridge regression, polynomial fitting, drafts
 
-## Competitions
+## AICC (competitions)
 - `Smart_Cargo_finished`: delivery-time prediction with linear regression and gradient descent, plus the submission file
 - `Simulate_OJIA_1`, `Cybersecurity_AI`, `USAAIO_Breast_Cancer`: started
 
