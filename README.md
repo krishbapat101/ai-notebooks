@@ -33,6 +33,7 @@ Each course folder is split into `finished` (at least one part runs all the way 
 
 ## AICC (competitions)
 - `Smart_Cargo_finished`: delivery-time prediction with linear regression and gradient descent, plus the submission file
+- `Ukraine_Camp_Data_Reduction_score_86`: Kaggle "Ukraine Camp | Data Reduction" contest, picking the fewest training rows and columns that keep a decision tree at F1 ≥ 0.92 (3 rows, 2 columns, score 86)
 - `Simulate_OJIA_1`, `Cybersecurity_AI`, `USAAIO_Breast_Cancer`: started
 
 ## Other
