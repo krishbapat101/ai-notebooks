@@ -33,6 +33,7 @@ Each course folder is split into `finished` (at least one part runs all the way 
 
 ## AICC (competitions)
 - `Smart_Cargo_finished`: delivery-time prediction with linear regression and gradient descent, plus the submission file
+- `NEOAI_2025_Cluster_Pictures`: clusters images that were split into pairs of matrices, by rebuilding them, embedding with a pretrained TinyViT and running my own k-means (Kaggle late-submission score 0.086)
 - `Simulate_OJIA_1`, `Cybersecurity_AI`, `USAAIO_Breast_Cancer`: started
 
 ## Other
